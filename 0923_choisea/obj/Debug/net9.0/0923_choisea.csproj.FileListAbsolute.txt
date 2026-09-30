@@ -1,0 +1,5 @@
+C:\lessonCHN\GIT\26031001-Choisea_practice\0923_choisea\obj\Debug\net9.0\0923_choisea.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessonCHN\GIT\26031001-Choisea_practice\0923_choisea\obj\Debug\net9.0\0923_choisea.AssemblyInfoInputs.cache
+C:\lessonCHN\GIT\26031001-Choisea_practice\0923_choisea\obj\Debug\net9.0\0923_choisea.AssemblyInfo.cs
+C:\lessonCHN\GIT\26031001-Choisea_practice\0923_choisea\obj\Debug\net9.0\0923_choisea.csproj.CoreCompileInputs.cache
+C:\lessonCHN\GIT\26031001-Choisea_practice\0923_choisea\obj\Debug\net9.0\0923_choisea.sourcelink.json
