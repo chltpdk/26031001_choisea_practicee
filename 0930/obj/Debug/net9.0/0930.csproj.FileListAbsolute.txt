@@ -1,0 +1,15 @@
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\bin\Debug\net9.0\0930.exe
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\bin\Debug\net9.0\0930.deps.json
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\bin\Debug\net9.0\0930.runtimeconfig.json
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\bin\Debug\net9.0\0930.dll
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\bin\Debug\net9.0\0930.pdb
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.AssemblyInfoInputs.cache
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.AssemblyInfo.cs
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.csproj.CoreCompileInputs.cache
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.sourcelink.json
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.dll
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\refint\0930.dll
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.pdb
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\0930.genruntimeconfig.cache
+C:\lessonCHN\GIT\26031001_choisea_practicee\0930\obj\Debug\net9.0\ref\0930.dll
