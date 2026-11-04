@@ -1,0 +1,15 @@
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\bin\Debug\net8.0\1104.exe
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\bin\Debug\net8.0\1104.deps.json
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\bin\Debug\net8.0\1104.runtimeconfig.json
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\bin\Debug\net8.0\1104.dll
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\bin\Debug\net8.0\1104.pdb
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.AssemblyInfoInputs.cache
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.AssemblyInfo.cs
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.csproj.CoreCompileInputs.cache
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.sourcelink.json
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.dll
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\refint\1104.dll
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.pdb
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\1104.genruntimeconfig.cache
+C:\Users\KOREAIT\26031001_choisea_practicee\1104\obj\Debug\net8.0\ref\1104.dll
